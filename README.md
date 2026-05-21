@@ -1,1 +1,1 @@
-# rosario_oggi
+# rosario-oggi
